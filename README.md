@@ -7,7 +7,7 @@ CI/CD project: Automated GitHub Pages deployment using GitHub Actions
 ## 📖 Project Description
 
 This project demonstrates Continuous Integration and Continuous Deployment (CI/CD) using GitHub Actions. Any changes to `index.html` automatically trigger a deployment to GitHub Pages.
-
+https://roadmap.sh/projects/github-actions-deployment-workflow
 ## 🌐 Live Demo
 
 Visit the deployed website: [https://mostakimidlc-prog.github.io/gh-deployment-workflow/](https://mostakimidlc-prog.github.io/gh-deployment-workflow/)
